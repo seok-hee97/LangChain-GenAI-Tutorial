@@ -28,6 +28,8 @@ PDF Query with LangChain and CASSANDRA DB
 
 ## LLama 2
 1. About LLama 2
+    - Llama 2 is available for free for research and commercial use.
+    - [Llama 2](https://llama.meta.com/llama2)
 2. Research Paper of LLama 2
 3. Apply And Download The LLama 2 model
 4. Hugging Face
