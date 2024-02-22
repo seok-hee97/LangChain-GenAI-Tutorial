@@ -16,6 +16,13 @@ pip install -r requirements.txt
 
 
 
+## Q&A Chatbot
+
+
+## Chat with PDF Using Langchain and Astradb
+
+PDF Query with LangChain and CASSANDRA DB 
+
 
 ### Reference
 
