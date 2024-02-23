@@ -51,4 +51,10 @@ conda create -p venv310 python==3.10
 
 LangChain GEN AI Tutorial -6 End-to-End Proejcts using OpenAI,Google Genmini Pro, LLAMA2
 
-https://www.youtube.com/watch?v=x0AnCE9SE4A&t=13168s
+[LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2](https://www.youtube.com/watch?v=x0AnCE9SE4A&t=13168s)
+progress : 2:31:05/4:01:40
+
+
+
+
+[Querying PDF files with  Langchain and OpenAI](https://medium.com/@svikraman010101/querying-pdf-files-with-langchain-and-openai-b5ec496e28c0)
