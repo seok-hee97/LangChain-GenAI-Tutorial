@@ -27,6 +27,7 @@ PDF Query with LangChain and CASSANDRA DB
 
 
 ## Blog-Generation(LLama 2)
+
 1. About LLama 2
     - Llama 2 is available for free for research and commercial use.
     - [Llama 2](https://llama.meta.com/llama2)
@@ -37,6 +38,12 @@ PDF Query with LangChain and CASSANDRA DB
 
 ```
 streamlit run app.py
+```
+
+## LLMAPP
+
+```
+conda create -p venv310 python==3.10
 ```
 
 
