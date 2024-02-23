@@ -6,14 +6,14 @@ from langchain.llms import CTransformers
 
 def getLLamaresponse(input_text,no_words,blog_style):
 
-    ### LLama2 model
+    ### Llama2 model
+    # you should downaload model file
     llm=CTransformers(model='models/llama-2-7b-chat.ggmlv3.q8_0.bin',
                       model_type='llama',
                       config={'max_new_tokens':256,
                               'temperature':0.01})
     
     ## Prompt Template
-
     template="""
         Write a blog for {blog_style} job profile for a topic {input_text}
         within {no_words} words.
