@@ -26,7 +26,7 @@ PDF Query with LangChain and CASSANDRA DB
 [Querying PDF files with  Langchain and OpenAI](https://medium.com/@svikraman010101/querying-pdf-files-with-langchain-and-openai-b5ec496e28c0)
 
 
-## LLama 2
+## Blog-Generation(LLama 2)
 1. About LLama 2
     - Llama 2 is available for free for research and commercial use.
     - [Llama 2](https://llama.meta.com/llama2)
@@ -35,6 +35,9 @@ PDF Query with LangChain and CASSANDRA DB
 4. Hugging Face
 5. End to End Proeject [Blog Generation LLm App]
 
+```
+streamlit run app.py
+```
 
 
 ### Reference
