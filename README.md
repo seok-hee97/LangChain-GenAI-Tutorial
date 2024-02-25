@@ -54,6 +54,8 @@ conda activate venv310/
 pip install -r requirements.txt
 ```
 
+## Gemini-Demo
+Google Gemini Pro Demo
 
 
 ### Reference
