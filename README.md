@@ -71,7 +71,7 @@ https://ai.google.dev/tutorials/python_quickstart
 
 
 
-## Conversational Q&A Chatbot Using Gemini Pro API
+## QAChat-Gemini(Conversational Q&A Chatbot Using Gemini Pro API)
 
 [reference code link](https://github.com/krishnaik06/Google-Gemini-Crash-Course/tree/7ae0761ec44979341a397021d156f3fcf1dcc026/End-To-End-Gemini-Project-main)
 
