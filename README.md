@@ -59,6 +59,17 @@ Google Gemini Pro Demo
 
 https://ai.google.dev/tutorials/python_quickstart
 
+
+## Multi Language Invoice Extractor LLm Project
+
+1. Multilanguage Invoice Extractor App Demo
+2. create Environment
+3. requriements.txt
+4. Step by step building App
+5. Additional Improvements
+6. Target 1000 likes
+
+
 ### Reference
 
 LangChain GEN AI Tutorial -6 End-to-End Proejcts using OpenAI,Google Genmini Pro, LLAMA2

@@ -1,12 +1,10 @@
 .env
 
-
 venv/
-
-
 
 Blog-Generation/models/
 
-
 LLMAPP/venv310
+
+Multi-Language-Invoice-Extractor-LLm/venv310
 
