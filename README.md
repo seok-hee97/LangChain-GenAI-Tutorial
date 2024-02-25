@@ -57,6 +57,7 @@ pip install -r requirements.txt
 ## Gemini-Demo
 Google Gemini Pro Demo
 
+https://ai.google.dev/tutorials/python_quickstart
 
 ### Reference
 
